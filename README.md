@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[Check out my portfolio!](https://www.amiscott.com/)
+[Find me on Twitter](https://twitter.com/AmiEzraScott)
+[I'm also on LinkedIn!](https://www.linkedin.com/in/ami-scott/)
+
 <!--
 **Memitaru/Memitaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
