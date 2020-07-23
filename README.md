@@ -1,4 +1,4 @@
-<img align="right" src="./octocat.png" height="300">
+<img align="right" src="https://raw.githubusercontent.com/Memitaru/Memitaru/master/octocat.png" height="300">
 
 ### Hi there, I'm Ami 👋
 
