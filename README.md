@@ -1,8 +1,17 @@
-### Hi there 👋
+<img align="right" src="./octocat.png" height="300">
 
-[Check out my portfolio!](https://www.amiscott.com/)
-[Find me on Twitter](https://twitter.com/AmiEzraScott)
+### Hi there, I'm Ami 👋
+
+[Check out my portfolio!](https://www.amiscott.com/)\
+[Find me on Twitter](https://twitter.com/AmiEzraScott)\
 [I'm also on LinkedIn!](https://www.linkedin.com/in/ami-scott/)
+
+- 🔭 I’m enjoy working with: JavaScript, React, CSS
+- 🌱 I’m currently learning: React Native
+- 💬 Ask me about: my cats 🐈
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: A cat cannot see directly under its nose.
+
 
 <!--
 **Memitaru/Memitaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
